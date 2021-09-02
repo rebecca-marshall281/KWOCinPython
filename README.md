@@ -4,4 +4,4 @@ The goal of this assignment was to read through a text file and print out an alp
 
 # How to Run the Program
 
-Run the following command in the terminal: `./kwoc3.py [INPUT-FILE] (-e) [EXCEPTION-FILE]`
+Run the following command in the terminal: `./kwoc3.py [INPUT-FILE] (-e [EXCEPTION-FILE])`
