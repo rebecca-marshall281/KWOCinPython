@@ -2,7 +2,7 @@
 
 The goal of this assignment was to read through a text file and print out an alphabetical list of every word found in the input file with its corresponding line and line number.
 
-The assigment described can be found [HERE](./a2_writeup.pdf).
+The assignment described can be found [HERE](./a2_writeup.pdf).
 
 # How to Run the Program
 
